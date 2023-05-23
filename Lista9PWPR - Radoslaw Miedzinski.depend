@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1622573622 source:c:\users\radek\desktop\pwpr\lista9pwpr - radoslaw miedzinski\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<time.h>
+	<sstream>
+
+1622668990 source:d:\lista9pwpr - radoslaw miedzinski\main.cpp
+	<iostream>
+	<fstream>
+	<math.h>
+	<time.h>
+	<sstream>
+
